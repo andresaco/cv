@@ -103,7 +103,7 @@ This projects involves different sets of technologies, from hardware devices to 
 _Madrid, Spain_
 
 Big Data engineer leading the set up, provision and deployment of Python-based solutions for Apache Spark processes.
-Core concepts associated to Python deployment, including python project archetypes, libraries provision, testing techniques and artifacts provision are
+Core concepts associated to Python deployment, including python project archetypes, libraries and runtime artifacts provision, testing support are
 generated according to Datio requirements. Additionally, some of my daily tasks include the release of learning resources for Python apprentices.
 
 Courses
