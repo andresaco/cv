@@ -42,16 +42,19 @@ at GMV, located in Madrid. From the very beginning I started to develop software
 belonging to a team of more than 80 people that lead us to be top Satellite Control Centers provider company.
 Our customers are the most relevant companies in the industry such as Eutelsat, SES Astra or NBN, among others.
 
-Part of my working experience took place in Luxembourg, working as a software consultant for SES Astra.
+**Part of my working experience took place in Luxembourg**, working as a software consultant for SES Astra.
 This wonderful experience allowed me to work in an international team, where a system for automating satellite control
 was developed between 2009 and 2010. Nowadays this system is becoming widely adopted for other companies for automating
 control tasks.
 
-From 2018, I joined DATIO towards initiating my career as a Big Data engineer, leading the set up of Python-based
+**From 2018, I joined DATIO towards initiating my career as a Big Data engineer**, leading the set up of Python-based
 solutions.
 
-Along these years, I have become a technical reference in my working team, specially in anything related
+Along these years, I have become a technical reference in my working teams, specially in anything related
 to user experience, and development using Java and Python technologies.
+
+**Recently, part of my work is focused on the role of Product Owner**, leading the strategy of ETL processes within 
+Datio Platform aimed at preparing data for Artificial Intelligence models training.
 
 ## Education
 
@@ -61,15 +64,20 @@ _UPM, Madrid, Spain_
 
 Real-time development, project engineering, software engineering, operating systems
 
+### 2021: The Power MBA
+
+_Online_
+
+Product development and strategy, management.
+
 ## Working Experience
 
-### 2007-2009: Software Engineer at GMV Aerospace and Defence S.A.U.
+### 2007-2018: Software Engineer at GMV Aerospace and Defence S.A.U.
 
 _Madrid, Spain_
 
-Junior Software engineer in charge of developing and mantaining GMV's spacecraft monitoring tool codenamed hiflyViews, based on the eclipse RCP platform.
-This tool aims to perform real time monitoring of satellites based on received telemetry. Visualization of telemetry is done using different formats,
-from tables to scatter graphs and synoptic representations.
+Software engineer leading different software projects involving Java and Python technologies in the aerospace industry, focusing on near real-time performance.
+These projects include Desktop applications, backend services and software that requires hardware integration.
 
 ### 2009-2010: Software Engineer at SES Astra
 
@@ -79,22 +87,6 @@ Software engineer in charge of designing and developing a satellite automation t
 This automation suite consists on a server implemented in Python an client implemented using eclipse RCP.
 Control automation is based on python modules that include a set of domain-specific primitives that allows monitoring and interacting over the
 spacecraft status.
-
-### 2011-2014: Software Engineer at GMV Aerospace and Defence S.A.U.
-
-_Madrid, Spain_
-
-Software engineer leading different software projects involving Java and Python technologies, focusing on tasks mainly related to user interfaces.
-Main projects I have worked include the adaptation of SPELL suite to Eutelsat automation needs in the scope of project NeoFoX, and enhancements to
-their Satellite Control Center, from its core features to the development of new tools.
-
-### 2015-2018: Project Manager at GMV Aerospace and Defence S.A.U.
-
-_Madrid, Spain_
-
-Software engineer leading the evolution of critical infrastucture access system for Eutelsat telecommunications company, codenamed BioLock. This system
-grants access to satellite control infrastructures based on biometric authentications and presence detection.
-This projects involves different sets of technologies, from hardware devices to web application containers.
 
 ### 2018- : Data Engineer at Datio
 
@@ -124,10 +116,6 @@ Basics of web development with Mongo DB, Express, Angular and Node.js on a 5-day
 ### 2017: Scrum Fundamentals by Scrummanager.net
 
 Basics of Agile software management methodologies on a 2-day session presented by Javier Garzás, one of the most enthusiastic voices about Agile methodologies in Spain
-
-### 2021: The Power MBA
-
-Online learning that focuses on the fundamentals of product design, strategy and management capabilities.
 
 ## Interests
 
