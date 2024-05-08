@@ -44,6 +44,8 @@
 *.bak
 *.backup
 *.swp
+*.bcf
+*.run.xml
 
 # Latexmk temporary files
 *.fls
