@@ -6,10 +6,17 @@ Big Data developer
 
 * born on 11/28/1982 in Cuenca, Spain
 * EU-citizen
-* email: j.andres.pizarro@gmail.com
+* email: <j.andres.pizarro@gmail.com>
 * languages:
   * español
   * english
+* management skills:
+  * Agile
+  * JIRA
+  * One on Ones
+  * Communication
+  * Decision-making
+  * Adaptability
 * programming skills:
   * Java
   * Python
@@ -19,21 +26,11 @@ Big Data developer
   * Javascript
   * Eclipse RCP
   * Java UI Toolkits
-  * CSS3
-  * HTML5
   * Apache Spark
-* Other technical skills:
-  * OS: Windows, Linux
-  * Hardware devices
-  * Drivers development
-  * Office suite
-  * LaTeX
 
 ## Motivation
 
-As **head of the advanced analytics product** for BBVA, I work on its strategy to deliver new features that add value to end users, without neglecting the possibility of discovering new features in initiatives that involve both end users and stakeholders.
-
-Currently **I manage a team of 16 developers** organized in a single Scrum. Although such a large team may sound complex, this responds to my constant willingness to meet the team's requests so that they can work in the best possible way.
+As a Product Owner, **I stand out for my insatiable curiosity and passion for continuous learning**. I'm a collaborative team member, **committed to the project's success**. My previous experience in development, with a focus on Python, provides me with a **solid understanding of technical challenges and customer needs**. I'm constantly seeking ways to improve and optimize processes to deliver quality products that exceed expectations. With **strong leadership and communication skills**, I'm prepared to guide the team to success in each development cycle.
 
 **I consider myself a team person**, supporting my team in everything that is necessary to the best of my ability.
 
@@ -87,7 +84,12 @@ generated according to Datio requirements. Additionally, some of my daily tasks 
 
 ### 2021- : Product Owner / Engineering Manager at Datio (Madrid, Spain)
 
-As a Product Owner, I lead the strategy of advanced analytics products based on the Data Platform of BBVA. It includes:
+As a Product Owner, I lead the strategy of two different teams in the scope of BBVA Data Platform.
+
+* Advanced Analytics Team: From January 2021 to June 2023.
+* Business Intelligence Tools: From July 2023.
+
+Responsibilities associated with this role include the following tasks.
 
 * Negotiate with stakeholders the deliverables to be developed for future releases.
 * Communicate with final users the features delivered, both in presentations and workshops.
