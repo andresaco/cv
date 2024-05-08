@@ -1,0 +1,58 @@
+# LaTeX project gitignore
+
+# LaTeX build files
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.dvi
+*.ps
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.loa
+*.lof
+*.log
+*.lol
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nlo
+*.nls
+*.pag
+*.thm
+*.bak
+*.backup
+*.swp
+
+# Latexmk temporary files
+*.fls
+
+# Compiled PDFs
+*.pdf
+
+# Editor temp files
+*~
+
+# Mac OSX hidden files
+.DS_Store
